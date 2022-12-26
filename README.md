@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @dondiodo
+- 👀 I’m interested in cnc,robótica y aprender ...
+- 🌱 I’m currently learning arduino...
+- 💞️ I’m looking to collaborate on todo lo que sé.
+- 📫 How to reach me correo 
+
